@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning c/c++/turbo c/python
 - 💞️ I’m looking to collaborate on projects involving promt engineering 
 - 📫 Reach me through chorko2005@gmail.com
+- CIT'27
 
 <!---
 Chorko/Chorko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
